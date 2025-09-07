@@ -1,0 +1,21 @@
+Subteam,Team,Members,Shift,Days_present,Assignments_by_day,Attend_short
+A1,A,27,09:00-18:00,"Tue, Wed, Thu","{'Tue': [{'Bay': 'Seat_C1', 'Assigned': 27}], 'Wed': [{'Bay': 'Seat_B1', 'Assigned': 27}], 'Thu': [{'Bay': 'Seat_B1', 'Assigned': 27}]}",0
+A2,A,21,09:00-18:01,"Mon, Wed, Fri","{'Mon': [{'Bay': 'Seat_A1', 'Assigned': 21}], 'Wed': [{'Bay': 'Seat_A1', 'Assigned': 21}], 'Fri': [{'Bay': 'Seat_D1', 'Assigned': 21}]}",0
+B1,B,26,09:00-18:02,"Mon, Tue, Wed","{'Mon': [{'Bay': 'Seat_D1', 'Assigned': 26}], 'Tue': [{'Bay': 'Seat_D1', 'Assigned': 26}], 'Wed': [{'Bay': 'Seat_E3', 'Assigned': 26}]}",0
+B2,B,23,09:00-18:03,"Tue, Thu, Fri","{'Tue': [{'Bay': 'Seat_A1', 'Assigned': 23}], 'Thu': [{'Bay': 'Seat_C5', 'Assigned': 23}], 'Fri': [{'Bay': 'Seat_B1', 'Assigned': 23}]}",0
+B3,B,2,09:00-18:04,"Tue, Wed, Thu","{'Tue': [{'Bay': 'Seat_A1', 'Assigned': 2}], 'Wed': [{'Bay': 'Seat_D1', 'Assigned': 2}], 'Thu': [{'Bay': 'Seat_C1', 'Assigned': 2}]}",0
+B4,B,19,13:00-22:00,"Tue, Wed, Thu","{'Tue': [{'Bay': 'Seat_B1', 'Assigned': 19}], 'Wed': [{'Bay': 'Seat_C4', 'Assigned': 19}], 'Thu': [{'Bay': 'Seat_E1', 'Assigned': 19}]}",0
+C1,C,63,15:00-00:00,"Wed, Thu, Fri","{'Wed': [{'Bay': 'Seat_C4', 'Assigned': 63}], 'Thu': [{'Bay': 'Seat_C4', 'Assigned': 63}], 'Fri': [{'Bay': 'Seat_C4', 'Assigned': 63}]}",0
+C2,C,400,09:00-18:00,"Mon, Thu, Fri","{'Mon': [{'Bay': 'Seat_B1', 'Assigned': 34}, {'Bay': 'Seat_C2', 'Assigned': 126}, {'Bay': 'Seat_C4', 'Assigned': 82}, {'Bay': 'Seat_C7', 'Assigned': 158}], 'Thu': [{'Bay': 'Seat_C2', 'Assigned': 126}, {'Bay': 'Seat_E2', 'Assigned': 164}, {'Bay': 'Seat_E3', 'Assigned': 110}], 'Fri': [{'Bay': 'Seat_C2', 'Assigned': 126}, {'Bay': 'Seat_E2', 'Assigned': 164}, {'Bay': 'Seat_E3', 'Assigned': 110}]}",0
+C3,C,84,09:00-18:00,"Wed, Thu, Fri","{'Wed': [{'Bay': 'Seat_E3', 'Assigned': 84}], 'Thu': [{'Bay': 'Seat_C5', 'Assigned': 84}], 'Fri': [{'Bay': 'Seat_C5', 'Assigned': 84}]}",0
+C4,C,600,06:30-15:30,"Mon, Tue, Wed","{'Mon': [{'Bay': 'Seat_C1', 'Assigned': 55}, {'Bay': 'Seat_C5', 'Assigned': 115}, {'Bay': 'Seat_C6', 'Assigned': 149}, {'Bay': 'Seat_E2', 'Assigned': 171}, {'Bay': 'Seat_E3', 'Assigned': 110}], 'Tue': [{'Bay': 'Seat_C2', 'Assigned': 126}, {'Bay': 'Seat_C6', 'Assigned': 145}, {'Bay': 'Seat_C7', 'Assigned': 158}, {'Bay': 'Seat_E2', 'Assigned': 171}], 'Wed': [{'Bay': 'Seat_C2', 'Assigned': 126}, {'Bay': 'Seat_C6', 'Assigned': 149}, {'Bay': 'Seat_C7', 'Assigned': 158}, {'Bay': 'Seat_E2', 'Assigned': 167}]}",0
+D1,D,3,11:00-20:00,"Wed, Thu, Fri","{'Wed': [{'Bay': 'Seat_B1', 'Assigned': 3}], 'Thu': [{'Bay': 'Seat_B1', 'Assigned': 3}], 'Fri': [{'Bay': 'Seat_B1', 'Assigned': 3}]}",0
+D2,D,7,13:00-22:00,"Mon, Tue, Fri","{'Mon': [{'Bay': 'Seat_D1', 'Assigned': 7}], 'Tue': [{'Bay': 'Seat_C1', 'Assigned': 7}], 'Fri': [{'Bay': 'Seat_D1', 'Assigned': 7}]}",0
+D3,D,18,09:00-18:00,"Mon, Thu, Fri","{'Mon': [{'Bay': 'Seat_E1', 'Assigned': 18}], 'Thu': [{'Bay': 'Seat_D1', 'Assigned': 18}], 'Fri': [{'Bay': 'Seat_E1', 'Assigned': 18}]}",0
+D4,D,4,18:30-03:30,"Tue, Wed, Thu","{'Tue': [{'Bay': 'Seat_B1', 'Assigned': 4}], 'Wed': [{'Bay': 'Seat_C1', 'Assigned': 4}], 'Thu': [{'Bay': 'Seat_C4', 'Assigned': 4}]}",0
+D5,D,2,20:30-05:30,"Mon, Tue, Thu","{'Mon': [{'Bay': 'Seat_C3', 'Assigned': 2}], 'Tue': [{'Bay': 'Seat_D1', 'Assigned': 2}], 'Thu': [{'Bay': 'Seat_D1', 'Assigned': 2}]}",0
+D6,D,5,22:00-07:00,"Mon, Tue, Fri","{'Mon': [{'Bay': 'Seat_C3', 'Assigned': 5}], 'Tue': [{'Bay': 'Seat_D1', 'Assigned': 5}], 'Fri': [{'Bay': 'Seat_B1', 'Assigned': 5}]}",0
+D7,D,44,09:00-18:00,"Wed, Thu, Fri","{'Wed': [{'Bay': 'Seat_C1', 'Assigned': 44}], 'Thu': [{'Bay': 'Seat_C1', 'Assigned': 44}], 'Fri': [{'Bay': 'Seat_C1', 'Assigned': 44}]}",0
+E1,E,300,09:00-18:00,"Tue, Thu, Fri","{'Tue': [{'Bay': 'Seat_C4', 'Assigned': 82}, {'Bay': 'Seat_C5', 'Assigned': 108}, {'Bay': 'Seat_E3', 'Assigned': 110}], 'Thu': [{'Bay': 'Seat_C6', 'Assigned': 142}, {'Bay': 'Seat_C7', 'Assigned': 158}], 'Fri': [{'Bay': 'Seat_C6', 'Assigned': 142}, {'Bay': 'Seat_C7', 'Assigned': 158}]}",0
+E2,E,4,20:30-05:30,"Mon, Tue, Thu","{'Mon': [{'Bay': 'Seat_C3', 'Assigned': 4}], 'Tue': [{'Bay': 'Seat_B1', 'Assigned': 4}], 'Thu': [{'Bay': 'Seat_C3', 'Assigned': 4}]}",0
+E3,E,19,22:00-07:00,"Tue, Thu, Fri","{'Tue': [{'Bay': 'Seat_C1', 'Assigned': 19}], 'Thu': [{'Bay': 'Seat_A1', 'Assigned': 19}], 'Fri': [{'Bay': 'Seat_A1', 'Assigned': 19}]}",0
