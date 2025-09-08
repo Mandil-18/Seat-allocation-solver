@@ -1,0 +1,4 @@
+streamlit
+pandas
+openpyxl   # for Excel
+pulp       # if you use PuLP in solver.py
