@@ -89,7 +89,8 @@ streamlit run app.py
 
 ## 📷 Screenshots
 
-*Add screenshots of the UI here for better understanding.*
+<img width="1669" height="535" alt="image" src="https://github.com/user-attachments/assets/a6c1f5a4-7a5a-4691-bee8-1ee6ee6aa7da" />
+
 
 ------------------------------------------------------------------------
 
